@@ -1,0 +1,6 @@
+STU001|Alice Johnson|Computer Engineering|2|student.alice
+STU002|Bob Williams|Computer Engineering|3|student.bob
+STU003|Carol Davis|Electrical Engineering|1|student.carol
+STU004|Daniel Martinez|Software Engineering|2|student.dan
+STU005|Eva Brown|Software Engineering|3|student.eva
+STU006|Frank Wilson|Electrical Engineering|1|student.frank

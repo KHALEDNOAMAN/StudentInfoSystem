@@ -1,0 +1,12 @@
+admin|admin123|ADMIN|System Administrator|
+KHALED|123123|ADMIN|NOAMAN|200200200
+instructor.smith|pass123|INSTRUCTOR|Dr. John Smith|INS001
+instructor.jones|pass123|INSTRUCTOR|Prof. Emily Jones|INS002
+instructor.chen|pass123|INSTRUCTOR|Dr. Wei Chen|INS003
+student.alice|pass123|STUDENT|Alice Johnson|STU001
+student.bob|pass123|STUDENT|Bob Williams|STU002
+student.carol|pass123|STUDENT|Carol Davis|STU003
+student.dan|pass123|STUDENT|Daniel Martinez|STU004
+student.eva|pass123|STUDENT|Eva Brown|STU005
+student.frank|pass123|STUDENT|Frank Wilson|STU006
+nazife.cevik|cevik123|ADVISOR|Prof. NAZİFE ÇEVİK|INS004

@@ -1,0 +1,9 @@
+CS101|Introduction to Programming|3|30|instructor.smith
+CS201|Data Structures|3|25|instructor.smith
+CS301|Algorithms|3|20|instructor.jones
+CS401|Database Systems|4|20|instructor.jones
+EE101|Circuit Analysis|3|25|instructor.chen
+EE201|Digital Electronics|3|20|instructor.chen
+SE101|Software Engineering Principles|3|30|instructor.jones
+MATH101|Calculus I|4|35|instructor.smith
+VBP101|Visual Based Programming|3|30|nazife.cevik
