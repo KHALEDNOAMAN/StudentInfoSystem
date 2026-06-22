@@ -1,28 +1,28 @@
-# ðŸ“š Student Information System
+# Student Information System
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-> **A Java-based student information management system with full CRUD operations â€” designed to manage student records, grades, and academic data efficiently.**
+> **A Java-based student information management system with full CRUD operations - designed to manage student records, grades, and academic data efficiently.**
 
 ---
 
-## ðŸŽ¯ Overview
+## Overview
 
 Student Information System (SIS) is a console application for managing student academic records. It supports creating, reading, updating, and deleting student data, with features for grade tracking and report generation. Built with clean OOP practices to demonstrate software engineering fundamentals.
 
-## âœ¨ Features
+## Features
 
-- âž• **Create** â€” Register new students with personal and academic info
-- ðŸ“– **Read** â€” View individual or all student records
-- âœï¸ **Update** â€” Modify student details and grades
-- âŒ **Delete** â€” Remove student records from the system
-- ðŸ” **Search** â€” Find students by ID, name, or department
-- ðŸ“Š **Reports** â€” Generate grade summaries and class lists
-- ðŸ’¾ **Persistence** â€” Data saved between application sessions
+- **Create** - Register new students with personal and academic info
+- **Read** - View individual or all student records
+- **Update** - Modify student details and grades
+- **Delete** - Remove student records from the system
+- **Search** - Find students by ID, name, or department
+- **Reports** - Generate grade summaries and class lists
+- **Persistence** - Data saved between application sessions
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -31,7 +31,7 @@ Student Information System (SIS) is a console application for managing student a
 | Collections | Data structures (ArrayList, HashMap) |
 | Scanner | User input handling |
 
-## ðŸš€ Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -51,24 +51,24 @@ javac *.java
 java Main
 ```
 
-## ðŸ“ Project Structure
+## Project Structure
 
 ```
 StudentInfoSystem/
-â”œâ”€â”€ Main.java           # Application entry point & menu
-â”œâ”€â”€ Student.java        # Student data model
-â”œâ”€â”€ StudentManager.java # CRUD operations handler
-â”œâ”€â”€ Utils.java          # Helper/utility methods
-â””â”€â”€ README.md
+├── Main.java           # Application entry point & menu
+├── Student.java        # Student data model
+├── StudentManager.java # CRUD operations handler
+├── Utils.java          # Helper/utility methods
+└── README.md
 ```
 
-## ðŸ“„ License
+## License
 
 This project is licensed under the MIT License.
 
-## ðŸ‘¤ Author
+## Author
 
-**Khaled Noaman** â€” Computer Engineering Student at Istanbul Arel University
+**Khaled Noaman** - Computer Engineering Student at Istanbul Arel University
 
 - [GitHub](https://github.com/KhaledNoaman)
 - [LinkedIn](https://www.linkedin.com/in/khalednoaman1/)
